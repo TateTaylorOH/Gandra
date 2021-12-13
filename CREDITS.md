@@ -11,7 +11,7 @@ j_lewy for Todd
 cad435, Hallgarth, and Komodo for Snow Elf Level Assets\
 DanielCoffey for book cover assets\
 Edhelsereg for Kriin's Mask and Robes\
-Haem Projects for Ancient Flamer Robes\
+Haem Projects for Ancient Falmer Robes\
 hothtrooper44 for Ancient Atmoran Shields\
 jetfalmer for Ancient Falmer Helmet\
 Kearsage for Ancient Falmer Staff\
