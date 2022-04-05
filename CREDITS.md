@@ -2,7 +2,6 @@
 
 - Remove all Atmoran Armor assets and replace it with ButaneBoss assets.
 - Remove all Atmoran Beard assets and replace them with Beards of Power assets.
-- Remove the Ancient Falmer staff.
 - Remove ancient jewelry.
 
 ### Special Thanks
