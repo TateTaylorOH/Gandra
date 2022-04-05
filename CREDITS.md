@@ -14,15 +14,15 @@ j_lewy for Todd
 
 ### Assets Used
 
-cad435, Hallgarth, and Komodo for Snow Elf Level Assets\
-DanielCoffey for book cover assets\
-Edhelsereg for Kriin's Mask and Robes\
-Haem Projects for Ancient Falmer Robes\
-hothtrooper44 for Ancient Atmoran Shields\
-jetfalmer for Ancient Falmer Helmet\
-NordWarUA for Asya'la's Sword
-crazylion for the Ancient Falmer Weapons\
-Yag1z for the Ancient Tree
+cad435, Hallgarth, and Komodo for Snow Elf Level Assets taken from Snow Elves Reborn - Resource, Snow Elf Resources, and Komodo's Lair - Snow Elves respectively\
+DanielCoffey for book cover assets taken from Book Covers PSD - Modders Resource\
+Edhelsereg for Kriin's Mask and Robes taken from Konahriik's Accoutrements\
+Haem Projects for the Ancient Falmer Robes taken from Carved Brink\
+hothtrooper44 for the Ancient Atmoran Shields taken from Shields of Jorrvaskr\
+jetfalmer for the Ancient Falmer Helmet taken from Snow Elf Helmet Open Male Humans or Elves\
+NordWarUA for Asya'la's Sword taken from NordWarUA's Vanilla Armor Replacers\
+crazylion for the Ancient Falmer Weapons taken from CL's Ebony Weapon's\
+Yag1z for the Ancient Tree taken from Ancient Trees of Skyrim
 
 ### Voice Cast
 
