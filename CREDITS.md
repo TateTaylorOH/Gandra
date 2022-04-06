@@ -12,7 +12,6 @@ j_lewy for Todd
 
 Blary for book set meshes taken from BookSets Resource\
 ButaneBoss for the Atmoran Armors taken from Ancient Nord Armo(u)ry EXTREME\
-cad435, Hallgarth, and Komodo for Snow Elf Level Assets taken from Snow Elves Reborn - Resource, Snow Elf Resources, and Komodo's Lair - Snow Elves respectively\
 crazylion for the Ancient Falmer Weapons taken from CL's Ebony Weapon's\
 DanielCoffey for book cover assets taken from Book Covers PSD - Modders Resource\
 Edhelsereg for Kriin's Mask and Robes taken from Konahriik's Accoutrements\
@@ -22,9 +21,9 @@ hothtrooper44 for the Ancient Atmoran Shields taken from Shields of Jorrvaskr\
 Imperial Society for the Ancient Falmer banners taken from Ayleid Ruins Building Kit\
 jetfalmer for the Ancient Falmer Helmet taken from Snow Elf Helmet Open Male Humans or Elves\
 Kearsage for Ancient Falmer Staff\
-PraedythXVI for the Ancient Falmer Throne taken from Ancient Falmer - Auriel's Chantry Throne Replacer\
 PROMETHEUS_ts for the Snow Elf Skeletons taken from Beast Skeletons\
 Square for the Drakr taken from Beyond Skyrim - Wares of Tamriel.\
+Step Modifications for Snow Elf Level Assets taken from Snow Elf Ruins Resource Pack\
 uni_SL for the Amulet of Auriel taken from Amulets of Skyrim\
 wSkeever for Laianstil's Armor taken from Frozen in Time\
 Yag1z for the Ancient Tree taken from Ancient Trees of Skyrim
