@@ -11,6 +11,7 @@ j_lewy for Todd
 ### Assets Used
 
 Blary for book set meshes taken from BookSets Resource\
+ButaneBoss for the Atmoran Armors taken from Ancient Nord Armo(u)ry EXTREME\
 cad435, Hallgarth, and Komodo for Snow Elf Level Assets taken from Snow Elves Reborn - Resource, Snow Elf Resources, and Komodo's Lair - Snow Elves respectively\
 crazylion for the Ancient Falmer Weapons taken from CL's Ebony Weapon's\
 DanielCoffey for book cover assets taken from Book Covers PSD - Modders Resource\
