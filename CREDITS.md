@@ -20,6 +20,7 @@ Haem Projects for the Ancient Falmer Robes taken from Carved Brink\
 hothtrooper44 for the Ancient Atmoran Shields taken from Shields of Jorrvaskr\
 Imperial Society for the Ancient Falmer banners taken from Ayleid Ruins Building Kit\
 jetfalmer for the Ancient Falmer Helmet taken from Snow Elf Helmet Open Male Humans or Elves\
+Kearsage for Ancient Falmer Staff\
 PraedythXVI for the Ancient Falmer Throne taken from Ancient Falmer - Auriel's Chantry Throne Replacer\
 PROMETHEUS_ts for the Snow Elf Skeletons taken from Beast Skeletons\
 Square for the Drakr taken from Beyond Skyrim - Wares of Tamriel.\
