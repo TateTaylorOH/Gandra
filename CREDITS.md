@@ -29,7 +29,7 @@ jetfalmer for the Ancient Falmer Helmet taken from Snow Elf Helmet Open Male Hum
 PraedythXVI for the Ancient Falmer Throne taken from Ancient Falmer - Auriel's Chantry Throne Replacer\
 PROMETHEUS_ts for the Snow Elf Skeletons taken from Beast Skeletons\
 Square for the Drakr taken from Beyond Skyrim - Wares of Tamriel.\
-trion77 for the Anfal Weapons taken from Occiglacies - Ancient Falmer Blade\
+trion77 for the Angfal Weapons taken from Occiglacies - Ancient Falmer Blade\
 uni_SL for the Amulet of Auriel taken from Amulets of Skyrim\
 wSkeever for Laianstil's Armor taken from Frozen in Time\
 Yag1z for the Ancient Tree taken from Ancient Trees of Skyrim
