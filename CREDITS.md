@@ -26,7 +26,8 @@ PROMETHEUS_ts for the Snow Elf Skeletons taken from Beast Skeletons\
 Square for the Drakr taken from Beyond Skyrim - Wares of Tamriel.\
 Step Modifications for Snow Elf Level Assets taken from Snow Elf Ruins Resource Pack\
 uni_SL for the Amulet of Auriel taken from Amulets of Skyrim\
-Yag1z for the Ancient Tree taken from Ancient Trees of Skyrim
+Yag1z for the Ancient Tree taken from Ancient Trees of Skyrim\
+Zebsi for female Snow Elf assets taken from Zebsirious - Tamrielic Races of Skyrim
 
 ### Voice Cast
 
