@@ -1,9 +1,3 @@
-#### Notes
-
-- Remove all Atmoran Armor assets and replace it with ButaneBoss assets.
-- Remove all Atmoran Beard assets and replace them with Beards of Power assets.
-- Remove ancient jewelry.
-
 ### Special Thanks
 
 VictorF for helping me with scripting and implementation every step of the way\
