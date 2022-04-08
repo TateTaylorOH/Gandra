@@ -18,8 +18,6 @@
 
 "Thou yndla iratid!" (You will die now!)
 
-"Yndla, kattfru!" (Die, cat-woman!)
-
 "Haugr ettna thou!" (Demons eat you!)
 
 "Saagr ella Sovngaardu!" (Death or Sovngarde!)
