@@ -21,11 +21,9 @@ hothtrooper44 for the Ancient Atmoran Shields taken from Shields of Jorrvaskr\
 Imperial Society for the Ancient Falmer banners taken from Ayleid Ruins Building Kit\
 jetfalmer for the Ancient Falmer Helmet taken from Snow Elf Helmet Open Male Humans or Elves\
 Kearsage for Ancient Falmer Staff\
-Norive for Laianstil's Armor taken from Ivory light (Ancient Falmer Armor)\
 PROMETHEUS_ts for the Snow Elf Skeletons taken from Beast Skeletons\
 Square for the Drakr taken from Beyond Skyrim - Wares of Tamriel.\
 Step Modifications for Snow Elf Level Assets taken from Snow Elf Ruins Resource Pack\
-uni_SL for the Amulet of Auriel taken from Amulets of Skyrim\
 Yag1z for the Ancient Tree taken from Ancient Trees of Skyrim\
 Zebsi for female Snow Elf assets taken from Zebsirious - Tamrielic Races of Skyrim
 
