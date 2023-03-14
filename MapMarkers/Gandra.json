@@ -1,0 +1,8 @@
+{
+  "mapMarkers": [
+    {
+      "refID": "Dragonborn.esm|2C49B", // Last Vigil (Original Marker: Camp)
+      "iconName": "SnowElfRuinsMarker"
+    }
+  ]
+}
